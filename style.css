@@ -1,0 +1,57 @@
+.Intro {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+
+.name {
+    color: coral;
+}
+
+section {
+    display: flex;
+    padding: 5%;
+    margin-bottom: 100px;
+
+}
+
+.header {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.middlesec {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 95%;
+}
+
+.media {
+    text-decoration: none;
+    color: rgb(254, 254, 254);
+    background-image: linear-gradient(orange, rgb(177, 44, 66));
+    padding: 5px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    font-weight: 800;
+
+}
